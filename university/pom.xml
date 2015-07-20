@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.bhagwant.javalearn</groupId>
+    <groupId>org.bhagwant.contactmanager</groupId>
     <artifactId>contactmanager</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
